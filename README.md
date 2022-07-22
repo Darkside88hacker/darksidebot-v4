@@ -26,7 +26,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkside88hacker/zimbot-v4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkside88hacker/darksidebot-v4)
 
 ## BUILD PACKS
 
@@ -38,7 +38,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/ZIM-BOT-INC-QR?v=1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
- ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
+ ##  > THIS BOT CODED BY Darkside Bots DARKSIDE BOT INC 
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION
